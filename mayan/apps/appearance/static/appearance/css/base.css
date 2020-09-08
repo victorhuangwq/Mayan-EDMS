@@ -631,3 +631,7 @@ a i {
 .dropdown-menu > li > a {
     color: #585e5e;
 }
+
+div.panel-footer {
+    color: #005d4a;
+}
